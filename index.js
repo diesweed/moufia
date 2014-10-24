@@ -1,0 +1,6 @@
+
+/**
+ * @module moufia
+ * @author diesweed
+ */
+
